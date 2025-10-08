@@ -47,4 +47,4 @@ const resultado3: number = multiplicar(n1, n2);
 const resultado4: number = dividir(n1, n2);
 console.log(resultado1, resultado2, resultado3, resultado4);
 
-export { };
+export {};

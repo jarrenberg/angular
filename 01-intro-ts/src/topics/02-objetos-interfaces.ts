@@ -11,14 +11,14 @@ const personaje = {
 
 console.log(personaje);
 
-interface personaje {
+interface Personaje {
     nombre: string,
     pv: number,
     habilidades: string[],
     procedencia?: string
 }
 
-const saiyan: personaje ={
+const saiyan: Personaje ={
 nombre:"Vegeta",
 pv:500,
 habilidades:["Guerrero del Espacio","Fuerza","Transformacion"],

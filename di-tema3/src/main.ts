@@ -3,7 +3,9 @@ import typescriptLogo from './typescript.svg'
 import './topics/di-3.2.ts'
 import './topics/di-3.3.ts'
 import './topics/di-3.4.ts'
-
+import './topics/di-3.5.ts'
+import './topics/di-3.6.ts'
+import './topics/di-3.7.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   
   <div>
